@@ -2,6 +2,24 @@
 
 + My portfolio is aimed at IT companys mainly the coding and software indestry, the point of my porfolio is to wow the employer just like a CV would. It would show off my skills and attributes, as well as having a place where i can show off my privous coding skills
 
+# What They Will Need
+
+## The necessary content
++ My GCSE results and any other qualifications
++ My achievements 
++ My skills 
++ My experience
+
+They will need my qualifications and education as they need to know if I am qualified for the job they want me to do.
+
+They need to be able to see my achievements to be able to see what i've achieved in my coding history to see if im suitible for the job they want me to do.
+
+They want to see my skills to be able to see if my skills meet there requirements. 
+
+They will want to see my experience to be able to see how well i can do the job their hiring me for.
+
+The portfolio needs to have a smooth and fast rendering times under 2 seconds.
+
 # Story Board
 
 Home page:
@@ -85,6 +103,12 @@ I will need to test that my digiatal Portfolio is that it will load in two diffe
 
 After testing the website in two different browsers the results show that they both work in firefox and google chrome with the proportions and all the links work.
 
+## Design justification
+
++ The digital portfolio suits and fulfils my audience's needs, My Education and qualification can easily be accessed and can be easily understood.
++ The portfolio shows my previous coding skills and projects I have worked on in the pass showing my coding skills
++ The portfolio has a smooth and easy to navigate website with rendering times under 2 seconds.
+
 # Peer Feedback
 
 ## Aiden: 
@@ -95,6 +119,11 @@ After testing the website in two different browsers the results show that they b
 
 + The colour scheme is alright but the layout could be more flashy, such as no white background showing.
 + The top bar could be bigger and white text for visibility.
+
+## Response:
+I have removed the idea for an achievement page and instead replaced it with my GCSE results.
+
+![alt text](../documentation/img/Capture2.PNG)
 
 # Final Product
 
