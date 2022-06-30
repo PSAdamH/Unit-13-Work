@@ -91,14 +91,6 @@ Hobbies Page:
 
 # Testing Portfolio 
 
-| Test                                                                               | Result                                                          |
-|------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| Make sure all the links lead to the intended place according to the navigation map | The links all lead to the correct place using my navigation map |
-| Make sure all images render under 2 seconds                                        | All the images render under 2 seconds                           |
-| Make sure that the CSS for the image sizes all are working as intended             | All images sizes are working correctly                          |
-| Make sure that the CSS for the flex boxes are working as intended                  | All the flex boxes are working as intended                      |
-| Make sure that navigation bar is in the intended place                             | The navigation bar is working as intended                       |
-
 I will need to test that my digiatal Portfolio is that it will load in two different browers i will be using google chrome and firefox
 
 + Google Chrome:
@@ -110,6 +102,8 @@ I will need to test that my digiatal Portfolio is that it will load in two diffe
 ![alt text](../documentation/img/Capture2.PNG)
 
 After testing the website in two different browsers the results show that they both work in firefox and google chrome with the proportions and all the links work.
+
+When testing my digital portfolio i found that while uploading it to github one file had no content in it, i then have fixed this issue by adding the content that was suppost to be in this file.
 
 ## Design justification
 
@@ -137,10 +131,12 @@ I have removed the idea for an achievement page and instead replaced it with my 
 
 + My Digital Portfolio has successfully showed off my skills and attributes. When it comes to an future employer i have showed off my previous coding skills and previous projects i have worked on
 
-+ The colour scheme i had to be reworked as it was hard to read the writing with the blue backround and black writing, after changing the colour scheme to purple it was easier to read and it looked more pleasing.
++ The colour scheme had to be reworked as it was hard to read the writing with the blue backround and black writing, after changing the colour scheme to purple it was easier to read and it looked more pleasing.
 
 + I had to change the idea for the achievements as to me i'd rather put those in along side my skills. so i replaced it with my GCSE results.
 
-+ To make the website slightly better i would have added a carasoul on the homepage to be able to view more then one image 
++ To make the website slightly better i would have added a carasoul on the homepage to be able to view more then one image.
+
++ Another improvement i would have added is adding more coding projects i have worked on in year ten,eleven showing more developing skills and having more content showing my overall skill and knowlegde  
 
 
