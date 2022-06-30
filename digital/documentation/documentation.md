@@ -106,8 +106,9 @@ After testing the website in two different browsers the results show that they b
 ## Design justification
 
 + The digital portfolio suits and fulfils my audience's needs, My Education and qualification can easily be accessed and can be easily understood.
-+ The portfolio shows my previous coding skills and projects I have worked on in the pass showing my coding skills
-+ The portfolio has a smooth and easy to navigate website with rendering times under 2 seconds.
++ The portfolio shows my previous coding skills and projects I have worked on in the past showing my coding skills allowing them to see if im the skiled enough for the job
++ The portfolio has a smooth and easy to navigation with rendering times under 2 seconds.
+
 
 # Peer Feedback
 
