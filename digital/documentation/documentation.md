@@ -91,6 +91,14 @@ Hobbies Page:
 
 # Testing Portfolio 
 
+| Test                                                                               | Result                                                          |
+|------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Make sure all the links lead to the intended place according to the navigation map | The links all lead to the correct place using my navigation map |
+| Make sure all images render under 2 seconds                                        | All the images render under 2 seconds                           |
+| Make sure that the CSS for the image sizes all are working as intended             | All images sizes are working correctly                          |
+| Make sure that the CSS for the flex boxes are working as intended                  | All the flex boxes are working as intended                      |
+| Make sure that navigation bar is in the intended place                             | The navigation bar is working as intended                       |
+
 I will need to test that my digiatal Portfolio is that it will load in two different browers i will be using google chrome and firefox
 
 + Google Chrome:
