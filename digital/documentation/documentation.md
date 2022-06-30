@@ -109,7 +109,6 @@ After testing the website in two different browsers the results show that they b
 + The portfolio shows my previous coding skills and projects I have worked on in the past showing my coding skills allowing them to see if im the skiled enough for the job
 + The portfolio has a smooth and easy to navigation with rendering times under 2 seconds.
 
-
 # Peer Feedback
 
 ## Aiden: 
